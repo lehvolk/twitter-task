@@ -4,5 +4,7 @@ twitter rain task solution
 Let's write docs and implement something.
 
 
-lol
-oh no
+ahah
+
+lol wat
+haha
